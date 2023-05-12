@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @MikeyElmers
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning Python and R
+- 👋 Hi, I’m a PhD researcher at Saarland University
+- 🔬 I do research on speech synthesis and memory
+- 👀 I’m interested in open science and data science
+- 🌱 I’m currently learning R, SQL, and Python
 - 📫 How to reach me elmers@lst.uni-saarland.de
 
 <!---

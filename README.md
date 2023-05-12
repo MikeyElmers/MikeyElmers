@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MikeyElmers
-- 👀 I’m interested in speech synthesis
+- 👀 I’m interested in data science
 - 🌱 I’m currently learning Python and R
 - 📫 How to reach me elmers@lst.uni-saarland.de
 

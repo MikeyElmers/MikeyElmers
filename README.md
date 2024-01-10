@@ -1,8 +1,8 @@
-- 👋 Hi, I’m a PhD researcher at Saarland University
-- 🔬 I do research on speech synthesis and memory
-- 👀 I’m interested in open science and data science
+- 👋 Hi, I’m a postdoctoral researcher at Kyoto University
+- 🔬 I research spoken dialogue systems for human-robot interaction
+- 👀 I’m interested in open science and reproducibility
 - 🌱 I’m currently learning R, SQL, and Python
-- 📫 How to reach me elmers@lst.uni-saarland.de
+- 📫 How to reach me elmers@sap.ist.i.kyoto-u.ac.jp
 
 <!---
 MikeyElmers/MikeyElmers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
